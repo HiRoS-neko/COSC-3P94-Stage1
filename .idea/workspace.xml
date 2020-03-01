@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f96c052e-06d1-4f90-8617-b4752d21e46e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="ProjectId" id="1YXIwEvHFaF01bJexma5VHtV60z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RPG GDD" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>LUALATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <viewer-command />
+        <compiler-arguments />
+        <main-file>$PROJECT_DIR$/src/main.tex</main-file>
+        <aux-dir>false</aux-dir>
+        <out-dir>true</out-dir>
+        <compile-twice>true</compile-twice>
+        <output-format>PDF</output-format>
+        <has-been-run>true</has-been-run>
+        <bib-run-config />
+        <makeindex-run-config />
+      </texify>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="LaTeX.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f96c052e-06d1-4f90-8617-b4752d21e46e" name="Default Changelist" comment="" />
+      <created>1583082748993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583082748993</updated>
+      <workItem from="1583082753322" duration="10000" />
+      <workItem from="1583082789983" duration="283000" />
+      <workItem from="1583083080928" duration="79000" />
+      <workItem from="1583083171811" duration="727000" />
+      <workItem from="1583083976030" duration="8081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="183" key="#Project_Structure" timestamp="1583082925079">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="872" y="183" key="#Project_Structure/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583082925079" />
+    <state x="734" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583091192124">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="734" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583091192124" />
+    <state x="1060" y="280" key="FileChooserDialogImpl" timestamp="1583083159697">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1060" y="280" key="FileChooserDialogImpl/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583083159697" />
+    <state width="2519" height="256" key="GridCell.Tab.0.bottom" timestamp="1583097055236">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2519" height="256" key="GridCell.Tab.0.bottom/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
+    <state width="2519" height="256" key="GridCell.Tab.0.center" timestamp="1583097055236">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2519" height="256" key="GridCell.Tab.0.center/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
+    <state width="2519" height="256" key="GridCell.Tab.0.left" timestamp="1583097055236">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2519" height="256" key="GridCell.Tab.0.left/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
+    <state width="2519" height="256" key="GridCell.Tab.0.right" timestamp="1583097055236">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="2519" height="256" key="GridCell.Tab.0.right/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
+    <state x="788" y="168" key="SettingsEditor" timestamp="1583096502102">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="788" y="168" key="SettingsEditor/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583096502102" />
+  </component>
+</project>

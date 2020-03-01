@@ -1,0 +1,176 @@
+%! Author = hiros
+%! Date = 2020-03-01
+
+\title{\textbf{COSC 3p94 - Stage 1}\\\large\emph{Learning Management System Development}}
+
+\author{Zain Alqudah\\Kyle Giammarco\\David Cheong}
+\date{\textbf{\today}}
+
+% Preamble
+\documentclass[12pt]{article}
+\usepackage{titlesec}
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Candara}
+
+
+\titleformat{\section}
+{\normalfont\Large\textbf}{Section\ \thesection}{18pt}{\Large}
+
+\titleformat{\subsection}
+{\normalfont\large\emph}{\thesubsection}{16pt}{\large}
+
+% Packages
+\usepackage{amsmath}
+
+% Document
+\begin{document}
+
+    \maketitle
+
+    \newpage
+
+    \tableofcontents
+
+    \newpage
+
+    \section{User Requirements}
+
+    \subsection[The role of each actor]{The role of each actor}
+
+    There are three main roles for each individual, student, instructor and admin.
+    The actor can have any of these roles, and can have all of these roles.
+    On initial setup a super admin will need to be assigned in order to give other actors their roles.
+    A user is given a student role, once enrolled in a class.
+    An instructor is given their role, once they are in charge of a course.
+    And super admins and admins are the only ones able to give the admin role to others.
+
+    \subsection{Security}
+
+    There will be a main login for the individual, with no roles presented to them until given to them by someone with more permissions.
+    Instructors and Admins can make courses, and add people to those courses.
+    Admins can add an individual to a course as an instructor and give admin privilages to a user.
+    Admins with the permission to take away permissions from a user are denoted as SuperAdmins, and are the only ones able to demote a user.
+    A user can hold many roles, and is not limited to only being a student or instructor or admin.
+    A instructor can have the student role as well, as well as an admin can have instructor role as well.
+
+    \subsection{What services are presented}
+
+    There are many features available in modern learning management systems.
+    The services present within our new implementation takes inspiration from these other solutions and intends to implement them in a more seamless manner to the end user.
+
+    \paragraph{}
+    The services are as follows (those with emphasis are most important according to our surveys):
+    \begin{itemize}
+        \item User - Profile
+        \begin{itemize}
+            \item Name
+            \item Bio
+            \item Settings
+            \begin{itemize}
+                \item Theme (Light|Dark)
+                \item Font and Font Size
+            \end{itemize}
+            \item Date of Birth
+        \end{itemize}
+        \item Course
+        \begin{itemize}
+            \item Name
+            \item Description
+            \item Teachers
+            \item \textbf{Assignments}
+            \item \textbf{Documents}
+            \item Forums
+            \item Quizzes
+            \item \textbf{Assignments}
+            \item \textbf{Grade Reporting}
+        \end{itemize}
+        \item Calendar
+    \end{itemize}
+
+    \subsection{Navigation}
+
+    Navigation through the site will be mainly through a header that contains the courses the individual has access to, with sections and subsections for those courses on a sidebar.
+    Settings for the individual will be accessed through the profile image on the top right.
+    With more advanced administrative tools available on the right for those that have permissions.
+
+    \subsection{User Input}
+
+    The site will be accessible through either keyboard and/or mouse, with appropriate compatibility for mobile and touch screens.
+
+    \subsection{Personalization Tools}
+
+    There will be a couple options in the way of personalization tools.
+    The user will be able to choose between two preset themes, either a light theme and a dark theme.
+    The font used by the website can also be chosen, from a list of preset fonts that are supported.
+
+    \subsection{Organization and Layout}
+
+    %todo
+
+    \subsection{User Experience}
+
+    %todo
+
+    \section{Existing Site Analysis}
+
+    D2L and Sakai are similar websites but have some significant design differences.
+    From a visual point of view, Sakai has more of a structured approach while D2L has more of a flowing design.
+    There’s much more notification icons, buttons, and progress bars in D2L which help the student figure out what assignment or course is more pressing.
+
+    Practically, D2L and Sakai serve the same function, but they differ in how they allow the user to use those features and what kind of feedback they receive.
+    Both D2L and Sakai have a profile/portfolio feature where you can add information about yourself and add others.
+    That feature is not the most useful as most students will not use it.
+    The D2L e-portfolio feature is a bit more practical as it allows you to show off your work rather than Sakai’s social features which only allow you to post on your wall.
+    D2L allows for more personalization in terms of what data is displayed.
+    Things like the calendar, announcements, and course contents are much more thorough and customizable.This makes them more useful and impactful for the user.
+
+    Course content is compartmentalized further in D2L compared to Sakai.
+    Course content, assignments, links, weekly materials, etc.\ all have their own tabs with direct links to the content, and a progress bar to show how much of that content has been consumed/finished.
+    D2L also has a Quick Tools section that allows easy access to summarized information like grades and submissions.
+
+    Other than that, the rest of the features are basically the same.
+    They both have group features where you can manage and search for groups to join.
+    Resources are available to users on both websites to manage and access.
+    Both home menus contain an overview of all the important information for the user.
+
+
+    \section{Control Map (HTA)}
+
+    %todo
+
+    \section{KLM Analysis}
+
+    %todo
+
+    \section{Existing Site Critique}
+
+    %todo
+
+    \section{Survey Results}
+
+    %todo
+
+    \section{User Goals}
+
+    %todo
+
+    \section{User Persona}
+
+    %todo
+
+    \section{Presentation}
+
+    The content will be displayed as a web app.
+    This allows the content to be viewable on a wide range of devices including mobile and desktop.
+    Since this is a web app, it will reflow intelligently for the device it is being used on.
+
+    If there is sufficent demand, the app can be bundled into 'native' applications using the web app ui.
+
+
+    \section{Storyboard}
+
+    %todo
+
+\end{document}
