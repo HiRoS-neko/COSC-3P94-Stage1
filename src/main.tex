@@ -13,7 +13,8 @@
 \usepackage{microtype}
 \usepackage{fontspec}
 \setmainfont[Ligatures=TeX]{Candara}
-
+\usepackage{graphicx}
+\graphicspath{ {../auxil/} }
 
 \titleformat{\section}
 {\normalfont\Large\textbf}{Section\ \thesection}{18pt}{\Large}
@@ -23,7 +24,8 @@
 
 % Packages
 \usepackage{amsmath}
-
+\usepackage{hyperref}
+\usepackage{graphicx}
 % Document
 \begin{document}
 
@@ -35,9 +37,10 @@
 
     \newpage
 
-    \section{User Requirements}
 
-    \subsection[The role of each actor]{The role of each actor}
+    \section{User Requirements}\label{sec:user-requirements}
+
+    \subsection{The role of each actor}\label{subsec:the-role-of-each-actor}
 
     There are three main roles for each individual, student, instructor and admin.
     The actor can have any of these roles, and can have all of these roles.
@@ -46,7 +49,7 @@
     An instructor is given their role, once they are in charge of a course.
     And super admins and admins are the only ones able to give the admin role to others.
 
-    \subsection{Security}
+    \subsection{Security}\label{subsec:security}
 
     There will be a main login for the individual, with no roles presented to them until given to them by someone with more permissions.
     Instructors and Admins can make courses, and add people to those courses.
@@ -55,7 +58,7 @@
     A user can hold many roles, and is not limited to only being a student or instructor or admin.
     A instructor can have the student role as well, as well as an admin can have instructor role as well.
 
-    \subsection{What services are presented}
+    \subsection{What services are presented}\label{subsec:what-services-are-presented}
 
     There are many features available in modern learning management systems.
     The services present within our new implementation takes inspiration from these other solutions and intends to implement them in a more seamless manner to the end user.
@@ -89,31 +92,33 @@
         \item Calendar
     \end{itemize}
 
-    \subsection{Navigation}
+    \subsection{Navigation}\label{subsec:navigation}
 
     Navigation through the site will be mainly through a header that contains the courses the individual has access to, with sections and subsections for those courses on a sidebar.
     Settings for the individual will be accessed through the profile image on the top right.
     With more advanced administrative tools available on the right for those that have permissions.
 
-    \subsection{User Input}
+    \subsection{User Input}\label{subsec:user-input}
 
     The site will be accessible through either keyboard and/or mouse, with appropriate compatibility for mobile and touch screens.
 
-    \subsection{Personalization Tools}
+    \subsection{Personalization Tools}\label{subsec:personalization-tools}
 
     There will be a couple options in the way of personalization tools.
     The user will be able to choose between two preset themes, either a light theme and a dark theme.
     The font used by the website can also be chosen, from a list of preset fonts that are supported.
 
-    \subsection{Organization and Layout}
+    \subsection{Organization and Layout}\label{subsec:organization-and-layout}
 
-    %todo
+    If the user is not logged in, the site will prompt the user with a login|register screen on the right, with announcements for the school on the left.
+    Once the user is logged in, they are shown a main page, similar to that of the storyboard (Section\ \ref{sec:storyboard}).
+    This page links into all the main features of the site, including a calendar, access to their courses and their own profile.
 
-    \subsection{User Experience}
+    \subsection{User Experience}\label{subsec:user-experience}
 
-    %todo
 
-    \section{Existing Site Analysis}
+
+    \section{Existing Site Analysis}\label{sec:existing-site-analysis}
 
     D2L and Sakai are similar websites but have some significant design differences.
     From a visual point of view, Sakai has more of a structured approach while D2L has more of a flowing design.
@@ -136,31 +141,37 @@
     Both home menus contain an overview of all the important information for the user.
 
 
-    \section{Control Map (HTA)}
+    \section{Control Map (HTA)}\label{sec:control-maphta}
 
     %todo
 
-    \section{KLM Analysis}
+
+    \section{KLM Analysis}\label{sec:klm-analysis}
 
     %todo
 
-    \section{Existing Site Critique}
+
+    \section{Existing Site Critique}\label{sec:existing-site-critique}
 
     %todo
 
-    \section{Survey Results}
+
+    \section{Survey Results}\label{sec:survey-results}
 
     %todo
 
-    \section{User Goals}
+
+    \section{User Goals}\label{sec:user-goals}
 
     %todo
 
-    \section{User Persona}
+
+    \section{User Persona}\label{sec:user-persona}
 
     %todo
 
-    \section{Presentation}
+
+    \section{Presentation}\label{sec:presentation}
 
     The content will be displayed as a web app.
     This allows the content to be viewable on a wide range of devices including mobile and desktop.
@@ -169,8 +180,8 @@
     If there is sufficent demand, the app can be bundled into 'native' applications using the web app ui.
 
 
-    \section{Storyboard}
+    \section{Storyboard}\label{sec:storyboard}
 
-    %todo
+    \includegraphics[width=\textwidth]{StoryBoard.jpg}
 
 \end{document}

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.2.4)  1 MAR 2020 16:12
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.2.4)  1 MAR 2020 16:34
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -214,6 +214,26 @@ smcp;"
 +smcp;"
 
 
+(d:/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 105.
+
+(d:/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
 (d:/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip52
@@ -225,11 +245,11 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (d:/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
-\ex@=\dimen152
+\ex@=\dimen154
 ))
 (d:/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen153
+\pmbraise@=\dimen155
 )
 (d:/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
@@ -246,7 +266,7 @@ LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box47
 \strutbox@=\box48
-\big@size=\dimen154
+\big@size=\dimen156
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \macc@depth=\count197
@@ -259,12 +279,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \column@=\count268
 \maxfields@=\count269
 \andhelp@=\toks20
-\eqnshift@=\dimen155
-\alignsep@=\dimen156
-\tagshift@=\dimen157
-\tagwidth@=\dimen158
-\totwidth@=\dimen159
-\lineht@=\dimen160
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
 \@envbody=\toks21
 \multlinegap=\skip53
 \multlinetaggap=\skip54
@@ -272,31 +292,161 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
+(d:/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(d:/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(d:/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks23
+)
+(d:/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(d:/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(d:/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+)
+(d:/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count273
+
+(d:/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen164
+
+(d:/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(d:/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(d:/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2020/01/14 v7.00d Hyperref driver for luaTeX
+
+(d:/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+(d:/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+
+)
+(d:/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(d:/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(d:/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+6.
+)
+\Hy@SectionHShift=\skip55
+)
 (d:/source/COSC3P94-Stage1/out/main.aux)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 28
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 30
 .
 
 (d:/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -332,14 +482,14 @@ LaTeX Font Info:    ... okay on input line 28.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 28.
+LaTeX Info: Redefining \microtypecontext on input line 30.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 28.
+LaTeX Info: Redefining \showhyphens on input line 30.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -353,58 +503,104 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 28.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 28.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 28.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 28.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 28.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 28.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 28.
-LaTeX Font Info:    Redeclaring math accent \check on input line 28.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 28.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 28.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 28.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 30.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 30.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 30.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 30.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 30.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 30.
+LaTeX Font Info:    Redeclaring math accent \check on input line 30.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 30.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 28.
+(Font)              `operators' in the math version `normal' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Candara(0)/m/n on input line 28.
+(Font)                  OT1/cmr/m/n --> TU/Candara(0)/m/n on input line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 28.
+(Font)              `operators' in the math version `bold' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Candara(0)/m/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> TU/Candara(0)/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Candara(0)/m/n --> TU/Candara(0)/m/n on input line 28
+(Font)                  TU/Candara(0)/m/n --> TU/Candara(0)/m/n on input line 30
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Candara(0)/m/it on input line 28.
+(Font)                  OT1/cmr/m/it --> TU/Candara(0)/m/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Candara(0)/b/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> TU/Candara(0)/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 28.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Candara(0)/m/n --> TU/Candara(0)/b/n on input line 28
+(Font)                  TU/Candara(0)/m/n --> TU/Candara(0)/b/n on input line 30
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Candara(0)/b/it on input line 28.
+(Font)                  OT1/cmr/bx/it --> TU/Candara(0)/b/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 28.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 30.
+(d:/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count280
+\scratchdimen=\dimen167
+\scratchbox=\box49
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen168
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks25
+) (d:/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
+5.
+
+(d:/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+))
+\AtBeginShipoutBox=\box50
+Package hyperref Info: Link coloring OFF on input line 30.
+
+(d:/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(d:/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count286
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+
+(d:/source/COSC3P94-Stage1/out/main.out)
+(d:/source/COSC3P94-Stage1/out/main.out)
+\@outlinefile=\write3
+
+\openout3 = main.out
+
 (d:/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
@@ -412,201 +608,178 @@ RS)
 
 {d:/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-./main.tex:34: Package titlesec Error: Entered in horizontal mode.
+./main.tex:36: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34     \tableofcontents
+l.36     \tableofcontents
                        
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 (d:/source/COSC3P94-Stage1/out/main.toc)
-\tf@toc=\write3
+\tf@toc=\write4
 
-\openout3 = main.toc
+\openout4 = main.toc
  [2]
 
-./main.tex:38: Package titlesec Error: Entered in horizontal mode.
+./main.tex:41: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38     \section{User Requirements}
-                                  
+l.41     \section{User Requirements}
+                                  \label{sec:user-requirements}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:40: Package titlesec Error: Entered in horizontal mode.
+./main.tex:43: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 ... role of each actor]{The role of each actor}
-                                                  
+l.43     \subsection{The role of each actor}
+                                          \label{subsec:the-role-of-each-actor}
+
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:49: Package titlesec Error: Entered in horizontal mode.
+./main.tex:52: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49     \subsection{Security}
-                            
+l.52     \subsection{Security}
+                            \label{subsec:security}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:58: Package titlesec Error: Entered in horizontal mode.
+./main.tex:61: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58     \subsection{What services are presented}
-                                               
+l.61     \subsection{What services are presented}
+                                               \label{subsec:what-services-a...
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 [3]
 
-./main.tex:92: Package titlesec Error: Entered in horizontal mode.
+./main.tex:95: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92     \subsection{Navigation}
-                              
+l.95     \subsection{Navigation}
+                              \label{subsec:navigation}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:98: Package titlesec Error: Entered in horizontal mode.
+./main.tex:101: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98     \subsection{User Input}
-                              
+l.101     \subsection{User Input}
+                               \label{subsec:user-input}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:102: Package titlesec Error: Entered in horizontal mode.
+./main.tex:105: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102     \subsection{Personalization Tools}
-                                          
+l.105     \subsection{Personalization Tools}
+                                          \label{subsec:personalization-tools}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:108: Package titlesec Error: Entered in horizontal mode.
+./main.tex:111: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108     \subsection{Organization and Layout}
-                                            
+l.111     \subsection{Organization and Layout}
+                                            \label{subsec:organization-and-l...
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:112: Package titlesec Error: Entered in horizontal mode.
+./main.tex:117: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112     \subsection{User Experience}
-                                    
+l.117     \subsection{User Experience}
+                                    \label{subsec:user-experience}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:116: Package titlesec Error: Entered in horizontal mode.
+./main.tex:121: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.116     \section{Existing Site Analysis}
-                                        
+l.121     \section{Existing Site Analysis}
+                                        \label{sec:existing-site-analysis}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 [4]
 
-./main.tex:139: Package titlesec Error: Entered in horizontal mode.
+./main.tex:144: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139     \section{Control Map (HTA)}
-                                   
+l.144     \section{Control Map (HTA)}
+                                   \label{sec:control-maphta}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:143: Package titlesec Error: Entered in horizontal mode.
+./main.tex:149: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143     \section{KLM Analysis}
-                              
+l.149     \section{KLM Analysis}
+                              \label{sec:klm-analysis}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:147: Package titlesec Error: Entered in horizontal mode.
+./main.tex:154: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.147     \section{Existing Site Critique}
-                                        
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-
-./main.tex:151: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151     \section{Survey Results}
-                                
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
-
-./main.tex:155: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.155     \section{User Goals}
-                            
+l.154     \section{Existing Site Critique}
+                                        \label{sec:existing-site-critique}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
@@ -617,53 +790,91 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.159     \section{User Persona}
-                              
+l.159     \section{Survey Results}
+                                \label{sec:survey-results}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:163: Package titlesec Error: Entered in horizontal mode.
+./main.tex:164: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163     \section{Presentation}
-                              
+l.164     \section{User Goals}
+                            \label{sec:user-goals}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
 
-./main.tex:172: Package titlesec Error: Entered in horizontal mode.
+./main.tex:169: Package titlesec Error: Entered in horizontal mode.
 
 See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172     \section{Storyboard}
-                            
+l.169     \section{User Persona}
+                              \label{sec:user-persona}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
-[5] (d:/source/COSC3P94-Stage1/out/main.aux))
+
+./main.tex:174: Package titlesec Error: Entered in horizontal mode.
+
+See the titlesec package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174     \section{Presentation}
+                              \label{sec:presentation}
+The <format> argument cannot contain horizontal material
+such as text, \noindent, \makebox, etc.
+
+
+./main.tex:183: Package titlesec Error: Entered in horizontal mode.
+
+See the titlesec package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183     \section{Storyboard}
+                            \label{sec:storyboard}
+The <format> argument cannot contain horizontal material
+such as text, \noindent, \makebox, etc.
+
+<../auxil/StoryBoard.jpg, id=118, 928.46875pt x 540.0175pt>
+File: ../auxil/StoryBoard.jpg Graphic file (type jpg)
+<use ../auxil/StoryBoard.jpg>
+Package luatex.def Info: ../auxil/StoryBoard.jpg  used on input line 185.
+(luatex.def)             Requested size: 469.75502pt x 273.22168pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+[5] [6<../auxil/StoryBoard.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+ (d:/source/COSC3P94-Stage1/out/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+)
 
 Here is how much of LuaTeX's memory you used:
- 6109 strings out of 481373
- 100000,552014 words of node,token memory allocated
- 494 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 54 glue_spec,
+ 14383 strings out of 481373
+ 100000,662416 words of node,token memory allocated
+ 499 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 55 glue_spec,
  6 attribute_list, 1 write nodes
-   avail lists: 2:299,3:81,4:18,5:80,6:22,7:2775,8:3,9:103,10:8,11:180
- 23029 multiletter control sequences out of 65536+600000
+   avail lists: 2:349,3:112,4:21,5:80,6:37,7:2824,8:20,9:109,10:8,11:170
+ 30997 multiletter control sequences out of 65536+600000
  74 fonts using 6255231 bytes
- 43i,6n,78p,241b,298s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 43i,6n,78p,241b,476s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/Windows/Fonts/Candaral.ttf><c:/Windows/Fonts/Candarali.ttf><c:/Windows/Fonts
 /Candarab.ttf>
-Output written on main.pdf (5 pages, 48332 bytes).
+Output written on main.pdf (6 pages, 172509 bytes).
 
-PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 151 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 131072)
+ 145 words of extra memory for PDF output out of 10000 (max. 100000000)
 

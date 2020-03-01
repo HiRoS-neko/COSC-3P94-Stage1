@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96c052e-06d1-4f90-8617-b4752d21e46e" name="Default Changelist" comment="" />
+    <list default="true" id="f96c052e-06d1-4f90-8617-b4752d21e46e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/main.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.tex" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +17,11 @@
   <component name="FavoritesManager">
     <favorites_list name="CodeIris Favorites" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YXIwEvHFaF01bJexma5VHtV60z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RPG GDD" />
@@ -71,7 +83,7 @@
       <workItem from="1583082789983" duration="283000" />
       <workItem from="1583083080928" duration="79000" />
       <workItem from="1583083171811" duration="727000" />
-      <workItem from="1583083976030" duration="8081000" />
+      <workItem from="1583083976030" duration="9429000" />
     </task>
     <servers />
   </component>
@@ -91,25 +103,29 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="1060" y="280" key="FileChooserDialogImpl/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583083159697" />
-    <state width="2519" height="256" key="GridCell.Tab.0.bottom" timestamp="1583097055236">
+    <state width="2519" height="256" key="GridCell.Tab.0.bottom" timestamp="1583098440781">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2519" height="256" key="GridCell.Tab.0.bottom/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
-    <state width="2519" height="256" key="GridCell.Tab.0.center" timestamp="1583097055236">
+    <state width="2519" height="256" key="GridCell.Tab.0.bottom/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583098440781" />
+    <state width="2519" height="256" key="GridCell.Tab.0.center" timestamp="1583098440780">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2519" height="256" key="GridCell.Tab.0.center/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
-    <state width="2519" height="256" key="GridCell.Tab.0.left" timestamp="1583097055236">
+    <state width="2519" height="256" key="GridCell.Tab.0.center/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583098440780" />
+    <state width="2519" height="256" key="GridCell.Tab.0.left" timestamp="1583098440780">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2519" height="256" key="GridCell.Tab.0.left/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
-    <state width="2519" height="256" key="GridCell.Tab.0.right" timestamp="1583097055236">
+    <state width="2519" height="256" key="GridCell.Tab.0.left/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583098440780" />
+    <state width="2519" height="256" key="GridCell.Tab.0.right" timestamp="1583098440780">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
-    <state width="2519" height="256" key="GridCell.Tab.0.right/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097055236" />
+    <state width="2519" height="256" key="GridCell.Tab.0.right/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583098440780" />
     <state x="788" y="168" key="SettingsEditor" timestamp="1583096502102">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="788" y="168" key="SettingsEditor/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583096502102" />
+    <state x="936" y="243" key="run.anything.popup" timestamp="1583097913978">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="936" y="243" key="run.anything.popup/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583097913978" />
   </component>
 </project>
