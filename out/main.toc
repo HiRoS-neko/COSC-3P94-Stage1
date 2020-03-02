@@ -9,11 +9,12 @@
 \contentsline {subsection}{\numberline {1.7}Organization and Layout}{4}{subsection.1.7}%
 \contentsline {subsection}{\numberline {1.8}User Experience}{4}{subsection.1.8}%
 \contentsline {section}{\numberline {2}Existing Site Analysis}{5}{section.2}%
-\contentsline {section}{\numberline {3}Control Map (HTA)}{5}{section.3}%
-\contentsline {section}{\numberline {4}KLM Analysis}{5}{section.4}%
-\contentsline {section}{\numberline {5}Existing Site Critique}{5}{section.5}%
-\contentsline {section}{\numberline {6}Survey Results}{5}{section.6}%
-\contentsline {section}{\numberline {7}User Goals}{5}{section.7}%
-\contentsline {section}{\numberline {8}User Persona}{5}{section.8}%
-\contentsline {section}{\numberline {9}Presentation}{5}{section.9}%
-\contentsline {section}{\numberline {10}Storyboard}{6}{section.10}%
+\contentsline {section}{\numberline {3}Control Map (HTA)}{6}{section.3}%
+\contentsline {section}{\numberline {4}KLM Analysis}{6}{section.4}%
+\contentsline {section}{\numberline {5}Existing Site Critique}{6}{section.5}%
+\contentsline {section}{\numberline {6}Survey Results}{6}{section.6}%
+\contentsline {paragraph}{}{9}{paragraph*.2}%
+\contentsline {section}{\numberline {7}User Goals}{9}{section.7}%
+\contentsline {section}{\numberline {8}User Persona}{9}{section.8}%
+\contentsline {section}{\numberline {9}Presentation}{9}{section.9}%
+\contentsline {section}{\numberline {10}Storyboard}{10}{section.10}%
