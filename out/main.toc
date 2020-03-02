@@ -10,12 +10,12 @@
 \contentsline {subsection}{\numberline {1.8}User Experience}{4}{subsection.1.8}%
 \contentsline {section}{\numberline {2}Existing Site Analysis}{5}{section.2}%
 \contentsline {section}{\numberline {3}Control Map (HTA) and KLM Analysis}{6}{section.3}%
-\contentsline {section}{\numberline {4}Existing Site Critique}{9}{section.4}%
-\contentsline {section}{\numberline {5}Survey Results}{9}{section.5}%
-\contentsline {paragraph}{}{12}{paragraph*.2}%
-\contentsline {section}{\numberline {6}User Goals}{12}{section.6}%
-\contentsline {section}{\numberline {7}User Persona}{12}{section.7}%
-\contentsline {paragraph}{The primary persona is as follows:}{12}{paragraph*.3}%
-\contentsline {paragraph}{The secondary persona is as follows:}{12}{paragraph*.4}%
-\contentsline {section}{\numberline {8}Presentation}{13}{section.8}%
-\contentsline {section}{\numberline {9}Storyboard}{13}{section.9}%
+\contentsline {section}{\numberline {4}Existing Site Critique}{8}{section.4}%
+\contentsline {section}{\numberline {5}Survey Results}{10}{section.5}%
+\contentsline {paragraph}{}{13}{paragraph*.2}%
+\contentsline {section}{\numberline {6}User Goals}{13}{section.6}%
+\contentsline {section}{\numberline {7}User Persona}{13}{section.7}%
+\contentsline {paragraph}{The primary persona is as follows:}{13}{paragraph*.3}%
+\contentsline {paragraph}{The secondary persona is as follows:}{13}{paragraph*.4}%
+\contentsline {section}{\numberline {8}Presentation}{14}{section.8}%
+\contentsline {section}{\numberline {9}Storyboard}{14}{section.9}%
