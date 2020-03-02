@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {1.6}Personalization Tools}{4}{subsection.1.6}%
 \contentsline {subsection}{\numberline {1.7}Organization and Layout}{4}{subsection.1.7}%
 \contentsline {subsection}{\numberline {1.8}User Experience}{4}{subsection.1.8}%
-\contentsline {section}{\numberline {2}Existing Site Analysis}{4}{section.2}%
+\contentsline {section}{\numberline {2}Existing Site Analysis}{5}{section.2}%
 \contentsline {section}{\numberline {3}Control Map (HTA)}{5}{section.3}%
 \contentsline {section}{\numberline {4}KLM Analysis}{5}{section.4}%
 \contentsline {section}{\numberline {5}Existing Site Critique}{5}{section.5}%
