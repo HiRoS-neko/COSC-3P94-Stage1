@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96c052e-06d1-4f90-8617-b4752d21e46e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.aux" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.aux" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.synctex.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/main.toc" beforeDir="false" afterPath="$PROJECT_DIR$/out/main.toc" afterDir="false" />
@@ -46,24 +48,6 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
-      <texify>
-        <compiler>LUALATEX</compiler>
-        <compiler-path />
-        <sumatra-path />
-        <viewer-command />
-        <compiler-arguments />
-        <main-file>$PROJECT_DIR$/src/main.tex</main-file>
-        <aux-dir>false</aux-dir>
-        <out-dir>true</out-dir>
-        <compile-twice>true</compile-twice>
-        <output-format>PDF</output-format>
-        <has-been-run>true</has-been-run>
-        <bib-run-config />
-        <makeindex-run-config />
-      </texify>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="LaTeX.main" />
@@ -85,6 +69,8 @@
       <workItem from="1583083080928" duration="79000" />
       <workItem from="1583083171811" duration="727000" />
       <workItem from="1583083976030" duration="14385000" />
+      <workItem from="1583113428740" duration="73000" />
+      <workItem from="1583113570311" duration="2491000" />
     </task>
     <servers />
   </component>
@@ -96,34 +82,43 @@
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="872" y="183" key="#Project_Structure/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583082925079" />
-    <state x="734" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583091192124">
-      <screen x="0" y="0" width="2560" height="1050" />
+    <state x="282" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583113672789">
+      <screen x="0" y="0" width="1368" height="882" />
     </state>
+    <state x="282" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.882@0.0.1368.882" timestamp="1583113672789" />
     <state x="734" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583091192124" />
     <state x="1060" y="280" key="FileChooserDialogImpl" timestamp="1583083159697">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="1060" y="280" key="FileChooserDialogImpl/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583083159697" />
-    <state width="2519" height="255" key="GridCell.Tab.0.bottom" timestamp="1583111507809">
-      <screen x="0" y="0" width="2560" height="1050" />
+    <state width="1370" height="161" key="GridCell.Tab.0.bottom" timestamp="1583116017892">
+      <screen x="0" y="0" width="1368" height="882" />
     </state>
+    <state width="1370" height="161" key="GridCell.Tab.0.bottom/0.0.1368.882@0.0.1368.882" timestamp="1583116017892" />
     <state width="2519" height="255" key="GridCell.Tab.0.bottom/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583111507809" />
-    <state width="2519" height="255" key="GridCell.Tab.0.center" timestamp="1583111507808">
-      <screen x="0" y="0" width="2560" height="1050" />
+    <state width="1370" height="161" key="GridCell.Tab.0.center" timestamp="1583116017891">
+      <screen x="0" y="0" width="1368" height="882" />
     </state>
+    <state width="1370" height="161" key="GridCell.Tab.0.center/0.0.1368.882@0.0.1368.882" timestamp="1583116017891" />
     <state width="2519" height="255" key="GridCell.Tab.0.center/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583111507808" />
-    <state width="2519" height="255" key="GridCell.Tab.0.left" timestamp="1583111507808">
-      <screen x="0" y="0" width="2560" height="1050" />
+    <state width="1370" height="161" key="GridCell.Tab.0.left" timestamp="1583116017891">
+      <screen x="0" y="0" width="1368" height="882" />
     </state>
+    <state width="1370" height="161" key="GridCell.Tab.0.left/0.0.1368.882@0.0.1368.882" timestamp="1583116017891" />
     <state width="2519" height="255" key="GridCell.Tab.0.left/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583111507808" />
-    <state width="2519" height="255" key="GridCell.Tab.0.right" timestamp="1583111507808">
-      <screen x="0" y="0" width="2560" height="1050" />
+    <state width="1370" height="161" key="GridCell.Tab.0.right" timestamp="1583116017892">
+      <screen x="0" y="0" width="1368" height="882" />
     </state>
+    <state width="1370" height="161" key="GridCell.Tab.0.right/0.0.1368.882@0.0.1368.882" timestamp="1583116017892" />
     <state width="2519" height="255" key="GridCell.Tab.0.right/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583111507808" />
     <state x="788" y="168" key="SettingsEditor" timestamp="1583096502102">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="788" y="168" key="SettingsEditor/0.0.2560.1050/2560.0.1920.1050/-1920.0.1920.1050@0.0.2560.1050" timestamp="1583096502102" />
+    <state x="408" y="184" width="540" height="540" key="StructurePopup" timestamp="1583116022169">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="408" y="184" width="540" height="540" key="StructurePopup/0.0.1368.882@0.0.1368.882" timestamp="1583116022169" />
     <state x="936" y="243" key="run.anything.popup" timestamp="1583097913978">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>

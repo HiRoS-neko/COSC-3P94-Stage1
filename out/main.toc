@@ -16,5 +16,7 @@
 \contentsline {paragraph}{}{9}{paragraph*.2}%
 \contentsline {section}{\numberline {7}User Goals}{9}{section.7}%
 \contentsline {section}{\numberline {8}User Persona}{9}{section.8}%
-\contentsline {section}{\numberline {9}Presentation}{9}{section.9}%
+\contentsline {paragraph}{The primary persona is as follows:}{9}{paragraph*.3}%
+\contentsline {paragraph}{The secondary persona is as follows:}{9}{paragraph*.4}%
+\contentsline {section}{\numberline {9}Presentation}{10}{section.9}%
 \contentsline {section}{\numberline {10}Storyboard}{10}{section.10}%

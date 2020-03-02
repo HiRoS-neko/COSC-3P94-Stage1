@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.2.4)  1 MAR 2020 20:11
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.2.4)  1 MAR 2020 21:26
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -156,10 +156,10 @@ Package: xparse 2020-01-12 L3 Experimental document command parser
 \l__xparse_m_args_int=\count179
 \l__xparse_v_nesting_int=\count180
 )
-Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2020/02/03 2.7h Font selection for XeLaTeX and LuaLaTeX
 (d:/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-luatex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count181
 \l__fontspec_language_int=\count182
@@ -418,7 +418,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip55
 )
-(d:/source/COSC3P94-Stage1/out/main.aux)
+(d:/source/COSC-3P94-Stage1/out/main.aux)
 \openout1 = main.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -595,8 +595,8 @@ LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
 LaTeX Info: Redefining \nameref on input line 29.
 
-(d:/source/COSC3P94-Stage1/out/main.out)
-(d:/source/COSC3P94-Stage1/out/main.out)
+(d:/source/COSC-3P94-Stage1/out/main.out)
+(d:/source/COSC-3P94-Stage1/out/main.out)
 \@outlinefile=\write3
 
 \openout3 = main.out
@@ -619,7 +619,7 @@ l.35     \tableofcontents
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
-(d:/source/COSC3P94-Stage1/out/main.toc)
+(d:/source/COSC-3P94-Stage1/out/main.toc)
 \tf@toc=\write4
 
 \openout4 = main.toc
@@ -883,18 +883,7 @@ l.192     \section{User Persona}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
-
-./main.tex:197: Package titlesec Error: Entered in horizontal mode.
-
-See the titlesec package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.197     \section{Presentation}
-                              \label{sec:presentation}
-The <format> argument cannot contain horizontal material
-such as text, \noindent, \makebox, etc.
-
+[9<../auxil/survey/12.png>]
 
 ./main.tex:206: Package titlesec Error: Entered in horizontal mode.
 
@@ -902,44 +891,55 @@ See the titlesec package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206     \section{Storyboard}
+l.206     \section{Presentation}
+                              \label{sec:presentation}
+The <format> argument cannot contain horizontal material
+such as text, \noindent, \makebox, etc.
+
+
+./main.tex:214: Package titlesec Error: Entered in horizontal mode.
+
+See the titlesec package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214     \section{Storyboard}
                             \label{sec:storyboard}
 The <format> argument cannot contain horizontal material
 such as text, \noindent, \makebox, etc.
 
-<../auxil/StoryBoard.jpg, id=157, 928.46875pt x 540.0175pt>
+<../auxil/StoryBoard.jpg, id=166, 928.46875pt x 540.0175pt>
 File: ../auxil/StoryBoard.jpg Graphic file (type jpg)
 <use ../auxil/StoryBoard.jpg>
-Package luatex.def Info: ../auxil/StoryBoard.jpg  used on input line 208.
+Package luatex.def Info: ../auxil/StoryBoard.jpg  used on input line 216.
 (luatex.def)             Requested size: 469.75502pt x 273.22168pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
-[9<../auxil/survey/12.png>] [10<../auxil/StoryBoard.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
-
-(d:/source/COSC3P94-Stage1/out/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+[10<../auxil/StoryBoard.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+ (d:/source/COSC-3P94-Stage1/out/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14556 strings out of 481373
+ 14550 strings out of 481373
  100000,662416 words of node,token memory allocated
  499 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 55 glue_spec,
  6 attribute_list, 1 write nodes
-   avail lists: 2:349,3:107,4:17,5:80,6:37,7:2448,8:20,9:152,10:8,11:159
- 31057 multiletter control sequences out of 65536+600000
+   avail lists: 2:349,3:107,4:19,5:80,6:37,7:2833,8:20,9:152,10:8,11:185
+ 31049 multiletter control sequences out of 65536+600000
  74 fonts using 6255231 bytes
  43i,6n,78p,241b,476s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/Windows/Fonts/Candaral.ttf><c:/Windows/Fonts/Candarali.ttf><c:/Windows/Fonts
 /Candarab.ttf>
-Output written on main.pdf (10 pages, 277687 bytes).
+Output written on main.pdf (10 pages, 279553 bytes).
 
-PDF statistics: 192 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 131072)
+PDF statistics: 196 PDF objects out of 1000 (max. 8388607)
+ 148 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 131072)
  145 words of extra memory for PDF output out of 10000 (max. 100000000)
 
