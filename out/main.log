@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.2.4)  1 MAR 2020 20:08
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/W32TeX)  (format=lualatex 2020.2.4)  1 MAR 2020 20:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -820,11 +820,11 @@ File: ../auxil/survey/5.png Graphic file (type png)
 <use ../auxil/survey/5.png>
 Package luatex.def Info: ../auxil/survey/5.png  used on input line 167.
 (luatex.def)             Requested size: 469.75502pt x 119.10129pt.
-<../auxil/survey/6.png, id=123, 638.385pt x 161.85469pt>
+<../auxil/survey/6.png, id=123, 638.385pt x 138.5175pt>
 File: ../auxil/survey/6.png Graphic file (type png)
 <use ../auxil/survey/6.png>
 Package luatex.def Info: ../auxil/survey/6.png  used on input line 168.
-(luatex.def)             Requested size: 469.75502pt x 119.10129pt.
+(luatex.def)             Requested size: 469.75502pt x 101.92854pt.
 <../auxil/survey/7.png, id=124, 636.12656pt x 179.92218pt>
 File: ../auxil/survey/7.png Graphic file (type png)
 <use ../auxil/survey/7.png>
@@ -936,7 +936,7 @@ Here is how much of LuaTeX's memory you used:
  43i,6n,78p,241b,476s stack positions out of 5000i,500n,10000p,200000b,100000s
 <c:/Windows/Fonts/Candaral.ttf><c:/Windows/Fonts/Candarali.ttf><c:/Windows/Fonts
 /Candarab.ttf>
-Output written on main.pdf (10 pages, 276733 bytes).
+Output written on main.pdf (10 pages, 277687 bytes).
 
 PDF statistics: 192 PDF objects out of 1000 (max. 8388607)
  144 compressed objects within 2 object streams
